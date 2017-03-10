@@ -1,14 +1,15 @@
 .eamon {
-	height:360px;
-
+	height:400px;
+	width:390px;
 }
 
 .paddy {
-
+	height:400px;
+	width:390px;
 }
 
 .gabe {
-
+	height:400px;
 }
 
 .gabe, .paddy {
@@ -20,4 +21,22 @@
 .first-img {
 	height:100%;
 	max-width: 100%;
+	width:390px;
+}
+
+h2 {
+	text-align: center;
+}
+
+title {
+
+}
+
+.navbar {
+	margin-bottom: 0px;
+}
+
+.item {
+	max-width: 100%;
+	max-height: 100%;
 }
