@@ -1,0 +1,59 @@
+h2 {
+	text-align: center;
+}
+
+.title {
+	text-align: center;
+}
+
+.titletext {
+	text-align: center;
+}
+
+.titletext2 {
+	text-align: left;
+}
+
+.sponsor {
+	height:250px; 
+	width: 375.11px;
+	
+}
+
+.sponsor2 {
+	height: 250px;
+
+}
+
+.col-md-3 {
+	text-align: center;
+}
+
+.visa {
+	height: 200px;
+	width: 180px;
+}
+
+.brain {
+	height: 230px;
+	width: 180px;
+}
+
+.car {
+	height: 230px;
+	width: 180px;
+}
+
+.fuel {
+	height: 200px;
+	width: 180px;
+}
+
+.link {
+	width: 180px;
+	height: 26px;
+}
+
+.essentials {
+	text-align: center;
+}
